@@ -1,1 +1,1 @@
-# Highschool_CPT_Project
+# cpt_project
